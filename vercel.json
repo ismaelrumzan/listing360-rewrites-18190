@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "https://listing-frontend.vercel.app/websites/2917-olive-st-nw-e726c4" },
+      { "source": "/gallery", "destination": "https://listing-frontend.vercel.app/websites/2917-olive-st-nw-e726c4/gallery" },
+      { "source": "/contact", "destination": "https://listing-frontend.vercel.app/websites/2917-olive-st-nw-e726c4/contact" },
+      { "source": "/neighborhood", "destination": "https://listing-frontend.vercel.app/websites/2917-olive-st-nw-e726c4/neighborhood" },
+      { "source": "/virtual-tour", "destination": "https://listing-frontend.vercel.app/websites/2917-olive-st-nw-e726c4/virtual-tour" }
+    ]
+  }
